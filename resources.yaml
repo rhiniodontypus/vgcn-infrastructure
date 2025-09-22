@@ -374,9 +374,10 @@ deployment:
     start: 2025-09-28
     end: 2025-09-28
     group: training-nicd-sep25
-  training-1536:
-    count: 1
-    flavor: c.c10m55
-    start: 
-    end: 
-    group: training-
+
+  training-gs-18052:
+    count: 2
+    flavor: 1.c120m205d50
+    start: 2025-10-15
+    end: 2025-10-17
+    group: training-gs-1025-3
