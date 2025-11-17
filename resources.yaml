@@ -230,24 +230,12 @@ deployment:
     start: 2025-11-24
     end: 2025-11-26
     group: training-bioinfo-rnaseq
-  training-gm2-4063:
-    count: 2
-    flavor: c1.c120m205d50
-    start: 2025-11-11
-    end: 2025-11-14
-    group: training-gm2-2025
   training-ki-b5152:
     count: 2
     flavor: c1.c120m205d50
     start: 2025-12-01
     end: 2025-12-04
     group: training-ki-bioinfo-2025
-  training-msc-2288:
-    count: 1
-    flavor: c1.c120m205d50
-    start: 2025-11-10
-    end: 2025-11-10
-    group: training-msc-tmr-ws25-4
   training-msc-1299:
     count: 2
     flavor: c1.c120m205d50
@@ -260,15 +248,15 @@ deployment:
     start: 2025-12-15
     end: 2025-12-19
     group: training-heh-mag2025
-  training-nova7347:
-    count: 2
-    flavor: c1.c120m205d50
-    start: 2025-10-31
-    end: 2025-11-14
-    group: training-nova-project
   training-aku-4163:
     count: 2
     flavor: c1.c120m205d50
     start: 2025-12-09
     end: 2025-12-12
     group: training-aku-microbiome
+  training-evol1979:
+    count: 1
+    flavor: c1.c120m405d50
+    start: 2025-11-27
+    end: 2025-11-27
+    group: training-evolucion-sj
